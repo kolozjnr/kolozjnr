@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### A little more about me...
 ``` PHP
-$kolo = [
+$koloBanny = [
         'pronouns' => ['He', 'Him'],
         'code' => ['PHP', 'laravel', 'Javascript', 'JQuery', 'TailwindCSS', 'HTML', 'CSS', 'Bootstrap'], 
         'learning' => ['Python', 'Django', 'Devops'],
